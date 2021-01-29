@@ -8,4 +8,3 @@ canonical_url:
 ---
 
 This is an example of how to structure a blog post.
-
