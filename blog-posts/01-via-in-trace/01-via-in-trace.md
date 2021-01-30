@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Part 1 - Total rookie mistake & few hours 'till the deadline
 description: how not to design PCB
 tags: PCB, Eagle
